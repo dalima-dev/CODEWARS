@@ -18,5 +18,3 @@ function differentiate(f) {
   if (c == 1) return b + "x";
   return b + "x^" + c;
 }
-
-console.log(differentiate('x^-43'))
